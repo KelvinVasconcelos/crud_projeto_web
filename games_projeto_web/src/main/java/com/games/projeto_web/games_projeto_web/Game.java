@@ -16,5 +16,4 @@ public class Game {
     public void setGender(String gender) {
         this.gender = gender;
     }
-
 }
